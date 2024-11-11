@@ -1,0 +1,316 @@
+Especie;Nombre;Categoría;Tamaño
+Perro;Affenpinscher;Pinscher;Pequeño
+Perro;Airedale Terrier;Terrier;Grande
+Perro;Akita;Spitz;Grande
+Perro;Akita Inu;Spitz;Grande
+Perro;Alaskan Klee Kai;Spitz;Pequeño
+Perro;Alaskan Malamute;Perro de Nieve;Grande
+Perro;American English Coonhound;Sabueso;Grande
+Perro;American Staffordshire Terrier;Terrier;Mediano
+Perro;Australian Terrier;Terrier;Pequeño
+Perro;Azawakh;Lebrel;Grande
+Perro;Barbet;Perro de Agua;Mediano
+Perro;Basenji;Sabueso;Mediano
+Perro;Basset Leonado de Bretaña;Sabueso;Mediano
+Perro;Basset Hound;Sabueso;Mediano
+Perro;Beagle;Sabueso;Pequeño
+Perro;Bearded Collie;Pastor;Grande
+Perro;Beauceron;Pastor;Grande
+Perro;Bedlington Terrier;Terrier;Mediano
+Perro;Bergamasco;Pastor;Grande
+Perro;Berger Picard;Pastor;Grande
+Perro;Bernedoodle;Pastor;Grande
+Perro;Bichón Boloñés;Bichon;Pequeño
+Perro;Bichón Frise;Bichon;Pequeño
+Perro;Bichón Habanero;Bichon;Pequeño
+Perro;Bichón Maltés;Bichon;Pequeño
+Perro;Biewer Terrier;Terrier;Pequeño
+Perro;Black and Tan Coonhound;Sabueso;Grande
+Perro;Black Russian Terrier;Terrier;Grande
+Perro;Bluetick Coonhound;Sabueso;Grande
+Perro;Bobtail;Collie;Grande
+Perro;Boerboel;Molosoide;Grande
+Perro;Bolonka;Bichon;Pequeño
+Perro;Border Collie;Collie;Mediano
+Perro;Border Terrier;Terrier;Pequeño
+Perro;Borzoi;Lebrel;Grande
+Perro;Boston Terrier;Terrier;Pequeño
+Perro;Boxer;Molosoide;Grande
+Perro;Boyero de Appenzell;Pastor;Grande
+Perro;Boyero de Berna;Pastor;Grande
+Perro;Boyero de Entlebuch;Pastor;Grande
+Perro;Boyero de Flandes;Pastor;Grande
+Perro;Boykin Spaniel;Spaniel;Mediano
+Perro;Braco Alemán de Pelo Corto;Braco;Grande
+Perro;Braco Alemán de Pelo Duro;Braco;Grande
+Perro;Braco Alemán de Pelo Largo;Braco;Grande
+Perro;Braco Húngaro de Pelo Duro;Braco;Grande
+Perro;Braco de Borbón;Braco;Mediano
+Perro;Braco de Weimar;Braco;Grande
+Perro;Braco Italiano;Braco;Grande
+Perro;Braco Francés;Braco;Mediano
+Perro;Broholmer;Molosoide;Grande
+Perro;Buhund Noruego;Spitz;Mediano
+Perro;Bull Terrier;Terrier;Mediano
+Perro;Bull Terrier Toy;Toy;Pequeño
+Perro;Bulldog;Molosoide;Mediano
+Perro;Bulldog Americano;Molosoide;Grande
+Perro;Bulldog Francés;Molosoide;Pequeño
+Perro;Bullmastiff;Molosoide;Grande
+Perro;Cairn Terrier;Terrier;Pequeño
+Perro;Cão da Serra da Estrela;Pastor;Grande
+Perro;Cão da Serra de Aires;Pastor;Mediano
+Perro;Cão de Água Português;Perro de Agua;Grande
+Perro;Cane Corso;Molosoide;Grande
+Perro;Caniche;Perro de Agua;Grande
+Perro;Catahoula;Pastor;Grande
+Perro;Cavalier King Charles Spaniel;Spaniel;Pequeño
+Perro;Cazador de Alces Noruego;Spitz;Grande
+Perro;Cazador Eslovaco;Sabueso;Mediano
+Perro;Chihuahua;Toy;Pequeño
+Perro;Chinook;Perro de Nieve;Grande
+Perro;Chow Chow;Spitz;Mediano
+Perro;Clumber Spaniel;Spaniel;Grande
+Perro;Cockapoo;Spaniel;Pequeño
+Perro;Cocker Spaniel;Spaniel;Mediano
+Perro;Cocker Spaniel Inglés;Spaniel;Mediano
+Perro;Collie;Collie;Grande
+Perro;Corgi Galés de Cardigan;Pastor;Mediano
+Perro;Corgi Galés de Pembroke;Pastor;Mediano
+Perro;Cotón de Tulear;Bichon;Pequeño
+Perro;Crestado Chino;Perro sin Pelo;Pequeño
+Perro;Crestado Rodesiano;Sabueso;Grande
+Perro;Cuvac Eslovaco;Pastor;Grande
+Perro;Dálmata;Pastor;Grande
+Perro;Dandie Dinmont Terrier;Terrier;Pequeño
+Perro;Doberman;Pinscher;Grande
+Perro;Dogo Argentino;Molosoide;Grande
+Perro;Dogo de Burdeos;Molosoide;Grande
+Perro;Drever;Sabueso;Mediano
+Perro;English Foxhound;Sabueso;Grande
+Perro;Eurasier;Spitz;Mediano
+Perro;Fox Terrier de Pelo Duro;Terrier;Pequeño
+Perro;Fox Terrier de Pelo Liso;Terrier;Pequeño
+Perro;Foxhound Americano;Sabueso;Grande
+Perro;Galgo Inglés;Lebrel;Grande
+Perro;Galgo Italiano;Lebrel;Pequeño
+Perro;Galgo Persa;Lebrel;Grande
+Perro;Glen of Imaal Terrier;Terrier;Pequeño
+Perro;Golden Retriever;Retriever;Grande
+Perro;Goldendoodle;Perro de Agua;Grande
+Perro;Gordon Setter;Setter;Grande
+Perro;Gran Boyero Suizo;Molosoide;XXL
+Perro;Gran Danés;Molosoide;XXL
+Perro;Grand Basset Griffon Vendeen;Sabueso;Mediano
+Perro;Grifón de Bruselas;Toy;Pequeño
+Perro;Grifón Korthals;Pointer;Grande
+Perro;Harrier;Sabueso;Mediano
+Perro;Hokkaido;Spitz;Mediano
+Perro;Hovawart;Molosoide;Grande
+Perro;Husky Siberiano;Perro de Nieve;Grande
+Perro;Jack Russell Terrier;Terrier;Pequeño
+Perro;Jagdterrier;Terrier;Mediano
+Perro;Kai;Spitz;Mediano
+Perro;Keeshond;Spitz;Mediano
+Perro;Kelpie Australiano;Pastor;Mediano
+Perro;Kerry Blue Terrier;Terrier;Grande
+Perro;Kishu;Spitz;Mediano
+Perro;Komondor;Pastor;Grande
+Perro;Kromfohrlander;Retriever;Mediano
+Perro;Kuvasz;Pastor;Grande
+Perro;Labrador Retriever;Retriever;Grande
+Perro;Lagotto Romagnolo;Perro de Agua;Mediano
+Perro;Laika de Yakutia;Spitz;Grande
+Perro;Laika Ruso Europeo;Spitz;Mediano
+Perro;Lakeland Terrier;Terrier;Mediano
+Perro;Lancashire Heeler;Pastor;Pequeño
+Perro;Lebrel Árabe;Lebrel;Grande
+Perro;Lebrel Escocés;Lebrel;Grande
+Perro;Leonberger;Molosoide;Grande
+Perro;Lhasa Apso;Toy;Pequeño
+Perro;Lobero Irlandés;Lebrel;Grande
+Perro;Löwchen;Toy;Pequeño
+Perro;Lundehund;Spitz;Pequeño
+Perro;Manchester Terrier;Terrier;Mediano
+Perro;Mastín del Pirineo;Molosoide;Grande
+Perro;Mastín Español;Pastor;Grande
+Perro;Mastín Inglés;Molosoide;Grande
+Perro;Mastín Napolitano;Molosoide;Grande
+Perro;Mastín Portugués;Pastor;Grande
+Perro;Mastín Tibetano;Molosoide;Grande
+Perro;Mountain Cur;Pastor;Grande
+Perro;Mudi;Pastor;Mediano
+Perro;Munsterlander Pequeño;Retriever;Grande
+Perro;Norfolk Terrier;Terrier;Pequeño
+Perro;Otterhound;Sabueso;Grande
+Perro;Papillón;Spaniel;Pequeño
+Perro;Parson Russell Terrier;Terrier;Pequeño
+Perro;Pastor Alemán;Pastor;Grande
+Perro;Pastor Australiano;Pastor;Mediano
+Perro;Pastor Australiano Toy;Toy;Pequeño
+Perro;Pastor Belga Laekenois;Pastor;Grande
+Perro;Pastor Belga Malinois;Pastor;Grande
+Perro;Pastor Belga Tervurense;Pastor;Grande
+Perro;Pastor Caucásico;Pastor;Grande
+Perro;Pastor Croata;Pastor;Mediano
+Perro;Pastor de Anatolia;Pastor;Grande
+Perro;Pastor de Asia Central;Pastor;Grande
+Perro;Pastor de Brie;Pastor;Grande
+Perro;Pastor de los Pirineos;Pastor;Mediano
+Perro;Pastor de Maremma;Pastor;Grande
+Perro;Pastor de Mioritic;Pastor;Grande
+Perro;Pastor de Valée;Pastor;Mediano
+Perro;Pastor Ganadero Australiano;Pastor;Mediano
+Perro;Pastor Holandés;Pastor;Grande
+Perro;Pastor Islandés;Spitz;Mediano
+Perro;Pastor Lapón;Pastor;Mediano
+Perro;Pastor Lapón de Suecia;Spitz;Mediano
+Perro;Pekinés;Toy;Pequeño
+Perro;Pequeño Basset Grifón Vendeano;Sabueso;Mediano
+Perro;Perdiguero de Dentre;Spaniel;Mediano
+Perro;Perdiguero Frisón;Pastor;Mediano
+Perro;Perdiguero Portugués;Pointer;Grande
+Perro;Perro de Agua Americano;Spaniel;Mediano
+Perro;Perro de Agua Español;Perro de Agua;Mediano
+Perro;Perro de Agua Irlandés;Perro de Agua;Grande
+Perro;Perro de Canaán;Pastor;Mediano
+Perro;Perro de Granja Danés y Sueco;Terrier;Mediano
+Perro;Perro de Montaña de Formosa;Pastor;Mediano
+Perro;Perro de Montaña de los Pirineos;Molosoide;XXL
+Perro;Perro de Osos de Carelia;Spitz;Grande
+Perro;Perro de San Huberto;Sabueso;Grande
+Perro;Perro Esquimal Americano;Spitz;Mediano
+Perro;Perro Finlandés de Laponia;Spitz;Mediano
+Perro;Perro Lobo Checoslovaco;Perro Lobo;Grande
+Perro;Perro sin Pelo de Perú;Perro sin Pelo;Grande
+Perro;Pinscher Alemán;Pinscher;Mediano
+Perro;Pinscher Toy;Toy;Pequeño
+Perro;Plott;Sabueso;Grande
+Perro;Podenco Faraónico;Podenco;Grande
+Perro;Podenco Ibicenco;Podenco;Grande
+Perro;Podenco Portugués;Podenco;Mediano
+Perro;Pointer Eslovaco de Pelo Duro;Pointer;Grande
+Perro;Pointer Inglés;Pointer;Grande
+Perro;Pomerania;Spitz;Pequeño
+Perro;Pomsky;Perro de Nieve;Pequeño
+Perro;Presa Canario;Molosoide;Grande
+Perro;Pudelpointer;Sabueso;Grande
+Perro;Pug;Toy;Pequeño
+Perro;Puli;Pastor;Mediano
+Perro;Pumi;Pastor;Mediano
+Perro;Rat Terrier;Terrier;Pequeño
+Perro;Redbone Coonhound;Sabueso;Grande
+Perro;Retriever de Chesapeake;Retriever;Grande
+Perro;Retriever de Nueva Escocia;Retriever;Mediano
+Perro;Retriever de Pelo Liso;Retriever;Grande
+Perro;Retriever de Pelo Rizado;Retriever;Grande
+Perro;Ridgeback Tailandés;Sabueso;Grande
+Perro;Rottweiler;Molosoide;Grande
+Perro;Russell Terrier;Terrier;Pequeño
+Perro;Russian Toy;Toy;Pequeño
+Perro;Sabueso Afgano;Sabueso;Grande
+Perro;Sabueso Bávaro de Montaña;Sabueso;Grande
+Perro;Sabueso de Hamilton;Sabueso;Grande
+Perro;Sabueso de Hannover;Sabueso;Grande
+Perro;Sabueso de Transilvania;Sabueso;Grande
+Perro;San Bernardo;Molosoide;XXL
+Perro;Samoyedo;Spitz;Grande
+Perro;Schipperke;Pastor;Pequeño
+Perro;Schnauzer;Terrier;Mediano
+Perro;Schnauzer Gigante;Molosoide;Grande
+Perro;Schnauzer Toy;Toy;Pequeño
+Perro;Sealyham Terrier;Terrier;Pequeño
+Perro;Setter Inglés;Setter;Grande
+Perro;Setter Irlandés;Setter;Grande
+Perro;Setter Irlandés Rojo y Blanco;Setter;Grande
+Perro;Shar Pei;Spitz;Mediano
+Perro;Sheltie;Collie;Mediano
+Perro;Shiba Inu;Spitz;Mediano
+Perro;Shih Tzu;Toy;Pequeño
+Perro;Shikoku Inu;Spitz;Mediano
+Perro;Silky Terrier;Terrier;Pequeño
+Perro;Skye Terrier;Terrier;Mediano
+Perro;Soft Coated Wheaten Terrier;Terrier;Mediano
+Perro;Spaniel Alemán;Spaniel;Mediano
+Perro;Spaniel Bretón;Spaniel;Mediano
+Perro;Spaniel de Campo;Spaniel;Grande
+Perro;Spaniel Francés;Spaniel;Mediano
+Perro;Spaniel Holandés;Spaniel;Mediano
+Perro;Spaniel Japonés;Spaniel;Pequeño
+Perro;Spaniel Tibetano;Toy;Pequeño
+Perro;Spinone Italiano;Sabueso;Grande
+Perro;Spitz Alemán;Spitz;Mediano
+Perro;Spitz de Norrbotten;Spitz;Mediano
+Perro;Spitz Finlandés;Spitz;Mediano
+Perro;Spitz Japonés;Spitz;Pequeño
+Perro;Springer Spaniel Galés;Spaniel;Mediano
+Perro;Springer Spaniel Inglés;Spaniel;Mediano
+Perro;Staffy;Molosoide;Mediano
+Perro;Sussex Spaniel;Spaniel;Grande
+Perro;Teckel;Sabueso;Pequeño
+Perro;Terranova;Pastor;Grande
+Perro;Teddy Roosevelt Terrier;Terrier;Pequeño
+Perro;Terrier Americano sin Pelo;Terrier;Pequeño
+Perro;Terrier Checo;Terrier;Pequeño
+Perro;Terrier de Norwich;Terrier;Pequeño
+Perro;Terrier Escocés;Terrier;Mediano
+Perro;Terrier Galés;Terrier;Mediano
+Perro;Terrier Irlandés;Terrier;Mediano
+Perro;Terrier Japonés;Terrier;Pequeño
+Perro;Tibetan Terrier;Pastor;Mediano
+Perro;Tornjak;Pastor;Grande
+Perro;Tosa;Molosoide;Grande
+Perro;Toy Spaniel Inglés;Toy;Pequeño
+Perro;Toy Terrier Americano;Toy;Pequeño
+Perro;Treeing Tennessee Brindle;Sabueso;Grande
+Perro;Treeing Walker Coonhound;Sabueso;Grande
+Perro;Vallhund;Spitz;Pequeño
+Perro;Vizsla;Braco;Grande
+Perro;Westie;Terrier;Pequeño
+Perro;Whippet;Lebrel;Grande
+Perro;Xoloitzcuintle;Perro sin Pelo;Mediano
+Perro;Yorkipoo;Toy;Pequeño
+Perro;Yorkshire Terrier;Terrier;Pequeño
+Gato;Abisinio;Pelo corto;Pequeño
+Gato;Americano de Pelo Corto;Pelo corto;Mediano
+Gato;Americano de Pelo Áspero;Pelo corto;Mediano
+Gato;Azul Ruso;Pelo corto;Mediano
+Gato;Bengalí;Pelo corto;Mediano
+Gato;Bobtail Americano;Pelo corto;Grande
+Gato;Bombay;Pelo corto;Mediano
+Gato;Bosque de Noruega;Pelo largo;Grande
+Gato;Británico de Pelo Corto;Pelo corto;Mediano
+Gato;Burmés;Pelo corto;Mediano
+Gato;Burmilla;Pelo corto;Mediano
+Gato;Cornish Rex;Pelo rizado;Mediano
+Gato;Curl Americano;Pelo corto;Mediano
+Gato;Cymric;Pelo largo;Mediano
+Gato;Devon Rex;Pelo rizado;Mediano
+Gato;Esfinge;Sin pelo;Mediano
+Gato;Exótico;Pelo corto;Mediano
+Gato;Fold Escocés;Pelo corto;Mediano
+Gato;Habana Brown;Pelo corto;Mediano
+Gato;Himalayo;Pelo largo;Mediano
+Gato;Javanés;Pelo largo;Mediano
+Gato;Korat;Pelo corto;Mediano
+Gato;LaPerm;Pelo rizado;Mediano
+Gato;Maine Coon;Pelo largo;Grande
+Gato;Manx;Pelo corto;Mediano
+Gato;Mau Egipcio;Pelo corto;Mediano
+Gato;Munchkin;Pelo corto;Mediano
+Gato;Nebelung;Pelo largo;Mediano
+Gato;Ocicat;Pelo corto;Mediano
+Gato;Oriental;Pelo corto;Mediano
+Gato;Persa;Pelo largo;Mediano
+Gato;Peterbald;Sin pelo;Mediano
+Gato;Ragamuffin;Pelo largo;Grande
+Gato;Ragdoll;Pelo largo;Mediano
+Gato;Savannah;Pelo corto;Grande
+Gato;Selkirk Rex;Pelo rizado;Mediano
+Gato;Siamés;Pelo corto;Mediano
+Gato;Siberiano;Pelo largo;Grande
+Gato;Singapura;Pelo corto;Pequeño
+Gato;Snowshoe;Pelo corto;Mediano
+Gato;Somalí;Pelo largo;Mediano
+Gato;Tonkinés;Pelo corto;Mediano
+Gato;Van Turco;Pelo corto;Mediano
